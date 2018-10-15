@@ -1,0 +1,93 @@
+********Resultados Cenário 1********
+
+
+N = 1000
+
+Algoritmo: QuickSort para Registros de Gastos de Deputados
+Tempo médio de ordenação = 0.0048062s
+Número médio de comparações de chaves = 11261
+Número médio de cópias de registros = 6652
+
+Algoritmo: QuickSort para Inteiros
+Tempo médio de ordenação = 0.0001356s
+Número médio de comparações de chaves = 11261
+Número médio de cópias de registros = 6652
+
+Algoritmo mais rápido: QuickSort para Inteiros
+
+***********************************
+N = 5000
+
+Algoritmo: QuickSort para Registros de Gastos de Deputados
+Tempo médio de ordenação = 0.030969s
+Número médio de comparações de chaves = 79790
+Número médio de cópias de registros = 52054
+
+Algoritmo: QuickSort para Inteiros
+Tempo médio de ordenação = 0.0007382s
+Número médio de comparações de chaves = 79790
+Número médio de cópias de registros = 52054
+
+Algoritmo mais rápido: QuickSort para Inteiros
+
+***********************************
+N = 10000
+
+Algoritmo: QuickSort para Registros de Gastos de Deputados
+Tempo médio de ordenação = 0.07712s
+Número médio de comparações de chaves = 197640
+Número médio de cópias de registros = 147580
+
+Algoritmo: QuickSort para Inteiros
+Tempo médio de ordenação = 0.0018682s
+Número médio de comparações de chaves = 197640
+Número médio de cópias de registros = 147580
+
+Algoritmo mais rápido: QuickSort para Inteiros
+
+***********************************
+N = 50000
+
+Algoritmo: QuickSort para Registros de Gastos de Deputados
+Tempo médio de ordenação = 1.04248s
+Número médio de comparações de chaves = 2551915
+Número médio de cópias de registros = 2289060
+
+Algoritmo: QuickSort para Inteiros
+Tempo médio de ordenação = 0.0214904s
+Número médio de comparações de chaves = 2551915
+Número médio de cópias de registros = 2289060
+
+Algoritmo mais rápido: QuickSort para Inteiros
+
+***********************************
+N = 100000
+
+Algoritmo: QuickSort para Registros de Gastos de Deputados
+Tempo médio de ordenação = 3.57413s
+Número médio de comparações de chaves = 8899232
+Número médio de cópias de registros = 8360755
+
+Algoritmo: QuickSort para Inteiros
+Tempo médio de ordenação = 0.064765s
+Número médio de comparações de chaves = 8899232
+Número médio de cópias de registros = 8360755
+
+Algoritmo mais rápido: QuickSort para Inteiros
+
+***********************************
+N = 500000
+
+Algoritmo: QuickSort para Registros de Gastos de Deputados
+Tempo médio de ordenação = 83.2762s
+Número médio de comparações de chaves = 197527310
+Número médio de cópias de registros = 194814933
+
+Algoritmo: QuickSort para Inteiros
+Tempo médio de ordenação = 1.26934s
+Número médio de comparações de chaves = 197527310
+Número médio de cópias de registros = 194814933
+
+Algoritmo mais rápido: QuickSort para Inteiros
+
+***********************************

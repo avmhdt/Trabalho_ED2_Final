@@ -1,0 +1,99 @@
+********Resultados Cenário 4********
+
+
+N = 1000
+
+Algoritmo: Sondagem linear
+Número médio de comparações de chaves = 688844656
+Número médio de gasto de memoria = 37860147
+
+Algoritmo: Encadeamento separado
+Número médio de comparações de chaves = 0
+Número médio de gasto de memoria = 0
+
+Encadeamento coalescido
+Número médio de comparações de chaves = 692691056
+Número médio de gasto de memoria = 40173568
+
+***********************************
+N = 5000
+
+Algoritmo: Sondagem linear
+Número médio de comparações de chaves = 692701056
+Número médio de gasto de memoria = 42198630
+
+Algoritmo: Encadeamento separado
+Número médio de comparações de chaves = 0
+Número médio de gasto de memoria = 0
+
+Encadeamento coalescido
+Número médio de comparações de chaves = 791881056
+Número médio de gasto de memoria = 416153
+
+Algoritmo com menor uso de memoria: Encademanto coalescido
+
+***********************************
+N = 10000
+
+Algoritmo: Sondagem linear
+Número médio de comparações de chaves = 791901056
+Número médio de gasto de memoria = 5935923
+
+Algoritmo: Encadeamento separado
+Número médio de comparações de chaves = 0
+Número médio de gasto de memoria = 0
+
+Encadeamento coalescido
+Número médio de comparações de chaves = 331851596
+Número médio de gasto de memoria = 22586982
+
+***********************************
+N = 50000
+
+Algoritmo: Sondagem linear
+Número médio de comparações de chaves = 331951596
+Número médio de gasto de memoria = 87696998
+
+Algoritmo: Encadeamento separado
+Número médio de comparações de chaves = 0
+Número médio de gasto de memoria = 0
+
+Encadeamento coalescido
+Número médio de comparações de chaves = 18870086
+Número médio de gasto de memoria = 781705216
+
+***********************************
+N = 100000
+
+Algoritmo: Sondagem linear
+Número médio de comparações de chaves = 19070086
+Número médio de gasto de memoria = 35373056
+
+Algoritmo: Encadeamento separado
+Número médio de comparações de chaves = 0
+Número médio de gasto de memoria = 0
+
+Encadeamento coalescido
+Número médio de comparações de chaves = 491850963
+Número médio de gasto de memoria = 12388761
+
+Algoritmo com menor uso de memoria: Encademanto coalescido
+
+***********************************
+N = 500000
+
+Algoritmo: Sondagem linear
+Número médio de comparações de chaves = 492850963
+Número médio de gasto de memoria = 273176166
+
+Algoritmo: Encadeamento separado
+Número médio de comparações de chaves = 0
+Número médio de gasto de memoria = 0
+
+Encadeamento coalescido
+Número médio de comparações de chaves = 585664454
+Número médio de gasto de memoria = 249933824
+
+Algoritmo com menor uso de memoria: Encademanto coalescido
+
+***********************************

@@ -1,0 +1,3 @@
+#!/bin/sh
+g++ ./src/deputado.cpp ./src/Deputado.cpp ./src/Sondagem_Linear.cpp ./src/TabelaHash.cpp ./src/util.cpp main.cpp -I ./headers -I ./include -std=c++0x -o main
+./main

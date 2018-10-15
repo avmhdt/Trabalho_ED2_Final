@@ -1,0 +1,3 @@
+#!/bin/sh
+g++ ./src/deputado.cpp ./src/No.cpp ./src/Sond_quad.cpp ./src/Hash_coalesc.cpp ./src/ponteiro.cpp ./src/sorting.cpp ./src/Hash_separa.cpp ./src/Re_hashing.cpp ./src/util.cpp ./src/Lista_encadeada.cpp ./src/Sondagem_Linear.cpp main.cpp -I ./headers -I ./include -std=c++0x -o main
+./main

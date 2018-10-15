@@ -1,0 +1,183 @@
+********Resultados Cenário 2********
+
+
+N = 1000
+
+Algoritmo: QuickSort Recursivo
+Tempo médio de ordenação = 0.0001524s
+Número médio de comparações de chaves = 11261
+Número médio de cópias de registros = 6652
+
+Algoritmo: QuickSort Mediana k = 3
+Tempo médio de ordenação = 0.0004434s
+Número médio de comparações de chaves = 30076
+Número médio de cópias de registros = 11402
+
+Algoritmo: QuickSort Mediana k = 5
+Tempo médio de ordenação = 0.0005624s
+Número médio de comparações de chaves = 38350
+Número médio de cópias de registros = 15689
+
+Algoritmo: QuickSortInsertion m = 10
+Tempo médio de ordenação = 0.000108s
+Número médio de comparações de chaves = 11498
+Número médio de cópias de registros = 6952
+
+Algoritmo: QuickSortInsertion m = 100
+Tempo médio de ordenação = 0.0001296s
+Número médio de comparações de chaves = 23405
+Número médio de cópias de registros = 20691
+
+Algoritmo mais rápido: QuickSortInsertion m = 10
+
+***********************************
+N = 5000
+
+Algoritmo: QuickSort Recursivo
+Tempo médio de ordenação = 0.0007772s
+Número médio de comparações de chaves = 78997
+Número médio de cópias de registros = 53711
+
+Algoritmo: QuickSort Mediana k = 3
+Tempo médio de ordenação = 0.0022524s
+Número médio de comparações de chaves = 210147
+Número médio de cópias de registros = 74646
+
+Algoritmo: QuickSort Mediana k = 5
+Tempo médio de ordenação = 0.0030092s
+Número médio de comparações de chaves = 247611
+Número médio de cópias de registros = 94179
+
+Algoritmo: QuickSortInsertion m = 10
+Tempo médio de ordenação = 0.000716s
+Número médio de comparações de chaves = 73087
+Número médio de cópias de registros = 45624
+
+Algoritmo: QuickSortInsertion m = 100
+Tempo médio de ordenação = 0.0008014s
+Número médio de comparações de chaves = 120946
+Número médio de cópias de registros = 100355
+
+Algoritmo mais rápido: QuickSortInsertion m = 10
+
+***********************************
+N = 10000
+
+Algoritmo: QuickSort Recursivo
+Tempo médio de ordenação = 0.001867s
+Número médio de comparações de chaves = 197264
+Número médio de cópias de registros = 144707
+
+Algoritmo: QuickSort Mediana k = 3
+Tempo médio de ordenação = 0.005139s
+Número médio de comparações de chaves = 543410
+Número médio de cópias de registros = 188215
+
+Algoritmo: QuickSort Mediana k = 5
+Tempo médio de ordenação = 0.006082s
+Número médio de comparações de chaves = 614627
+Número médio de cópias de registros = 226745
+
+Algoritmo: QuickSortInsertion m = 10
+Tempo médio de ordenação = 0.0016424s
+Número médio de comparações de chaves = 181764
+Número médio de cópias de registros = 124460
+
+Algoritmo: QuickSortInsertion m = 100
+Tempo médio de ordenação = 0.0016036s
+Número médio de comparações de chaves = 234127
+Número médio de cópias de registros = 185925
+
+Algoritmo mais rápido: QuickSortInsertion m = 100
+
+***********************************
+N = 50000
+
+Algoritmo: QuickSort Recursivo
+Tempo médio de ordenação = 0.0206066s
+Número médio de comparações de chaves = 2547158
+Número médio de cópias de registros = 2264008
+
+Algoritmo: QuickSort Mediana k = 3
+Tempo médio de ordenação = 0.0370478s
+Número médio de comparações de chaves = 7365744
+Número médio de cópias de registros = 2493398
+
+Algoritmo: QuickSort Mediana k = 5
+Tempo médio de ordenação = 0.040761s
+Número médio de comparações de chaves = 7682177
+Número médio de cópias de registros = 2669300
+
+Algoritmo: QuickSortInsertion m = 10
+Tempo médio de ordenação = 0.0187536s
+Número médio de comparações de chaves = 2512564
+Número médio de cópias de registros = 2220314
+
+Algoritmo: QuickSortInsertion m = 100
+Tempo médio de ordenação = 0.0091422s
+Número médio de comparações de chaves = 1306843
+Número médio de cópias de registros = 992989
+
+Algoritmo mais rápido: QuickSortInsertion m = 100
+
+***********************************
+N = 100000
+
+Algoritmo: QuickSort Recursivo
+Tempo médio de ordenação = 0.059139s
+Número médio de comparações de chaves = 8954647
+Número médio de cópias de registros = 8352839
+
+Algoritmo: QuickSort Mediana k = 3
+Tempo médio de ordenação = 0.0994862s
+Número médio de comparações de chaves = 26121186
+Número médio de cópias de registros = 8771844
+
+Algoritmo: QuickSort Mediana k = 5
+Tempo médio de ordenação = 0.106442s
+Número médio de comparações de chaves = 26747832
+Número médio de cópias de registros = 9131119
+
+Algoritmo: QuickSortInsertion m = 10
+Tempo médio de ordenação = 0.0575076s
+Número médio de comparações de chaves = 8917656
+Número médio de cópias de registros = 8306217
+
+Algoritmo: QuickSortInsertion m = 100
+Tempo médio de ordenação = 0.0392568s
+Número médio de comparações de chaves = 6241590
+Número médio de cópias de registros = 5576320
+
+Algoritmo mais rápido: QuickSortInsertion m = 100
+
+***********************************
+N = 500000
+
+Algoritmo: QuickSort Recursivo
+Tempo médio de ordenação = 1.19624s
+Número médio de comparações de chaves = 198011055
+Número médio de cópias de registros = 195086102
+
+Algoritmo: QuickSort Mediana k = 3
+Tempo médio de ordenação = 1.88246s
+Número médio de comparações de chaves = 590163260
+Número médio de cópias de registros = 196982739
+
+Algoritmo: QuickSort Mediana k = 5
+Tempo médio de ordenação = 1.91485s
+Número médio de comparações de chaves = 593044311
+Número médio de cópias de registros = 198872145
+
+Algoritmo: QuickSortInsertion m = 10
+Tempo médio de ordenação = 1.19877s
+Número médio de comparações de chaves = 197971795
+Número médio de cópias de registros = 195036682
+
+Algoritmo: QuickSortInsertion m = 100
+Tempo médio de ordenação = 1.17286s
+Número médio de comparações de chaves = 193055236
+Número médio de cópias de registros = 190027220
+
+Algoritmo mais rápido: QuickSortInsertion m = 100
+
+***********************************

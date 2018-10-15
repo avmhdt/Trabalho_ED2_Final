@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1539118152 source:c:\users\home\desktop\ed2_trabalho\main.cpp
+	<iostream>
+	"../../Downloads/ed2_2018.3-master/headers/libraries.h"
+	"TabelaHash.h"
+	"Deputado.h"
+
+1538933237 h"
+
+1538900482 source:c:\users\home\desktop\ed2_trabalho\src\deputado.cpp
+	"Deputado.h"
+
+1538900482 c:\users\home\desktop\ed2_trabalho\include\deputado.h
+	<iostream>
+
+1539117719 
+
+1539117995 source:c:\users\home\desktop\ed2_trabalho\src\tabelahash.cpp
+	<iostream>
+	<../../../Downloads/ed2_2018.3-master/headers/libraries.h>
+	"TabelaHash.h"
+	"Deputado.h"
+
+1539117719 c:\users\home\desktop\ed2_trabalho\include\tabelahash.h
+	"Deputado.h"
+	<math.h>
+
+1538933727 c:\users\home\downloads\ed2_2018.3-master\headers\libraries.h
+	<iostream>
+	<string>
+	<string.h>
+	<cmath>
+	<math.h>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<ctime>
+	"sorting.h"
+	"util.h"
+	"Deputado.h"
+
+1538773296 c:\users\home\downloads\ed2_2018.3-master\headers\sorting.h
+	"deputado.h"
+
+1538773296 c:\users\home\downloads\ed2_2018.3-master\headers\deputado.h
+
+1538933237 c:\users\home\downloads\ed2_2018.3-master\headers\util.h
+	"Deputado.h"
+
+1538946511 source:c:\users\home\downloads\ed2_2018.3-master\src\util.cpp
+	"../headers/libraries.h"
+
+1538946511 s/libraries.h"
+
+1539405716 source:/home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/main.cpp
+	<iostream>
+	"./headers/libraries.h"
+	"TabelaHash.h"
+	"Deputado.h"
+
+1539397186 /home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/headers/libraries.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<cstdlib>
+	<string>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<ctime>
+	"sorting.h"
+	"util.h"
+	"deputado.h"
+	"Sondagem_Linear.h"
+
+1539288768 /home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/headers/sorting.h
+	"deputado.h"
+
+1539288770 /home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/headers/deputado.h
+
+1539288770 /home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/headers/util.h
+	"deputado.h"
+
+1539120058 /home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/include/TabelaHash.h
+	"Deputado.h"
+	<math.h>
+
+1539120058 /home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/include/Deputado.h
+	<iostream>
+
+1539120058 source:/home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/src/Deputado.cpp
+	"Deputado.h"
+
+1539405439 source:/home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/src/TabelaHash.cpp
+	<iostream>
+	<../headers/libraries.h>
+	"TabelaHash.h"
+	"Deputado.h"
+
+1539288764 source:/home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/src/util.cpp
+	"../headers/libraries.h"
+
+1539288766 source:/home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/src/deputado.cpp
+	"../headers/libraries.h"
+
+1539288770 /home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/headers/Sondagem_Linear.h
+
+1539288768 source:/home/josecarvalho/Documents/PROG/ED2_2018-master_matheus/src/Sondagem_Linear.cpp
+	<iostream>
+	"../headers/libraries.h"
+	"sys/types.h"
+	"sys/sysinfo.h"
+
